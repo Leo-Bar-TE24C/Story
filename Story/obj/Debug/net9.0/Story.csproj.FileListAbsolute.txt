@@ -1,0 +1,14 @@
+c:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\obj\Debug\net9.0\Story.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\obj\Debug\net9.0\Story.AssemblyInfoInputs.cache
+c:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\obj\Debug\net9.0\Story.AssemblyInfo.cs
+c:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\obj\Debug\net9.0\Story.csproj.CoreCompileInputs.cache
+c:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\bin\Debug\net9.0\Story.exe
+c:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\bin\Debug\net9.0\Story.deps.json
+c:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\bin\Debug\net9.0\Story.runtimeconfig.json
+c:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\bin\Debug\net9.0\Story.dll
+c:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\bin\Debug\net9.0\Story.pdb
+c:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\obj\Debug\net9.0\Story.dll
+c:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\obj\Debug\net9.0\refint\Story.dll
+c:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\obj\Debug\net9.0\Story.pdb
+c:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\obj\Debug\net9.0\Story.genruntimeconfig.cache
+c:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\obj\Debug\net9.0\ref\Story.dll
