@@ -12,3 +12,4 @@ c:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\obj\Debug\net9.
 c:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\obj\Debug\net9.0\Story.pdb
 c:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\obj\Debug\net9.0\Story.genruntimeconfig.cache
 c:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\obj\Debug\net9.0\ref\Story.dll
+C:\Users\leonardo.barajasrio\Documents\Programering1\Story\Story\obj\Debug\net9.0\Story.sourcelink.json
