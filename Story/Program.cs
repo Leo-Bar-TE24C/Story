@@ -61,14 +61,14 @@ B) Look for an exit
 
         string choice5 = Console.ReadLine().ToLower();
 
-        while (choice5 != "a" || choice5 != "b" || choice5 != "yes" || choice5 != "no")
+        while (choice5 != "a" && choice5 != "b" && choice5 != "yes" && choice5 != "no")
         {
             Console.WriteLine("Sorry that's not an option, try again");
             Console.WriteLine("""
         A) Yes
         B) No
         """);
-            choice5 = Console.ReadLine();
+            choice5 = Console.ReadLine().ToLower();
         }
 
         if (choice5 == "a" || choice5 == "yes")
@@ -98,6 +98,7 @@ B) Look for an exit
 
         }
 
+    }
         if (choice3 == "b" || choice3 == "look for an exit")
         {
             Console.WriteLine("You come to a fork on the road \nThanks to the light of your flaslight you see beartraps on the right path \nYou go left");
@@ -110,7 +111,6 @@ B) Look for an exit
               |_|\___/ \__,_|   \_/\_/ |_|_| |_|
             """);
         }
-    }
 }
     
 
@@ -125,17 +125,17 @@ B) Look for an exit
         A) Yes
         B) No
         """);
-        string choice2 = Console.ReadLine();
+        string choice2 = Console.ReadLine().ToLower();
 
 
-        while (choice2 != "a" || choice2 != "b" || choice2 != "yes" || choice2 != "no")
+        while (choice2 != "a" && choice2 != "b" && choice2 != "yes" && choice2 != "no")
         {
             Console.WriteLine("Sorry that's not an option, try again");
             Console.WriteLine("""
         A) Yes
         B) No
         """);
-            choice2 = Console.ReadLine();
+            choice2 = Console.ReadLine().ToLower();
         }
 
 
@@ -176,7 +176,7 @@ B) Left
 """);
     string choice4 = Console.ReadLine().ToLower();
 
-    while (choice4 != "a" || choice4 != "b" || choice4 != "right" || choice4 != "left")
+    while (choice4 != "a" && choice4 != "b" && choice4 != "right" && choice4 != "left")
     {
         Console.WriteLine("Sorry that's noyt an option");
     Console.WriteLine("""
